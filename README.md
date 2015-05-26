@@ -1,0 +1,1 @@
+# gulp-nw-angular-base
